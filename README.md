@@ -1,5 +1,14 @@
 # Frontend Developer Quiz – Email Recipients Cell
 
+##  Features
+
+Unit Tests Added
+Saya menambahkan folder tests/fitEmails.test.ts menggunakan Vitest untuk menguji fungsi fitEmails
+
+## Live demo deployed on Vercel:
+
+👉 https://smartm2m-test.vercel.app/
+
 ## 📋 Overview
 
 This task tests a frontend developer’s ability in:
